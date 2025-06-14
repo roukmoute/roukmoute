@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 | Date      | Projet                                                                              | Tech utilisée     | Progression                                                     |
 |-----------|-------------------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------|
-| Juin 2025 | 💻 [Built Shell from scratch](https://github.com/roukmoute/codecrafters-shell-rust) | Rust              | ![Progression](https://img.shields.io/badge/Stages-7%2F43-blue) |
+| Juin 2025 | 💻 [Built Shell from scratch](https://github.com/roukmoute/codecrafters-shell-rust) | Rust              | ![Progression](https://img.shields.io/badge/Stages-8%2F43-blue) |
 
 ---
 
